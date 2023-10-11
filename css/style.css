@@ -1,4 +1,69 @@
+
 td, th {
-	border: 1px solid;
-  }
-  
+	border: 15px solid;
+  background-color: rgb(0, 0, 0);
+}
+
+th {
+  background-color: rgb(79, 9, 35);
+  font-weight: 700;
+}
+
+body {
+  background-color: #7290a1f8;
+  font-family: 'Rajdhani', 'Times New Roman', Times, serif;
+  font-size: 60px;
+  color: #725e40b7
+}
+
+h1 {
+  color: #92703c;
+  font-weight: bold;
+  text-align: center;
+  font-size: 70px;
+}
+
+.secondheading{
+  font-size: 130px;
+  text-align: center;
+  color: black;
+  font-weight: 400;
+}
+
+.customheading {
+  color: #030c2f;
+  font-weight: 700;
+  font-size: 4em;
+  background-color: rgb(120, 42, 47);
+  margin: 0 auto;
+  width: 40%;
+  padding: 10px;
+  text-transform: uppercase;
+  border-radius: 20%;
+}
+
+.leftcolumnheader{
+  font-weight: 700;
+  background-color: rgb(79, 42, 47);
+  text-transform: uppercase;
+}
+
+#italic{
+  font-style: italic;
+}
+
+#planets {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 40px auto;
+  text-align: center;
+  font-size: 2em;
+}
+
+img {
+  border: 2px solid #000000;
+  border-radius: 4px;
+  padding: 5px;
+  width: 800px;
+  height: 800px;
+}
