@@ -6,7 +6,7 @@ td, th {
 
 th {
   background-color: rgb(79, 9, 35);
-  font-weight: 700;
+  font-weight: 300;
 }
 
 body {
@@ -20,11 +20,11 @@ h1 {
   color: #92703c;
   font-weight: bold;
   text-align: center;
-  font-size: 70px;
+  font-size: 36px;
 }
 
 .secondheading{
-  font-size: 130px;
+  font-size: 24px;
   text-align: center;
   color: black;
   font-weight: 400;
