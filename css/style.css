@@ -12,7 +12,7 @@ th {
 body {
   background-color: #7290a1f8;
   font-family: 'Rajdhani', 'Times New Roman', Times, serif;
-  font-size: 60px;
+  font-size: 18px;
   color: #725e40b7
 }
 
@@ -20,11 +20,11 @@ h1 {
   color: #92703c;
   font-weight: bold;
   text-align: center;
-  font-size: 36px;
+  font-size: 24px;
 }
 
 .secondheading{
-  font-size: 24px;
+  font-size: 16px;
   text-align: center;
   color: black;
   font-weight: 400;
@@ -33,7 +33,7 @@ h1 {
 .customheading {
   color: #030c2f;
   font-weight: 700;
-  font-size: 36px;
+  font-size: 24px;
   background-color: rgb(120, 42, 47);
   margin: 0 auto;
   width: 40%;
@@ -57,13 +57,13 @@ h1 {
   border-collapse: collapse;
   margin: 20px auto;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 img {
   border: 2px solid #000000;
   border-radius: 4px;
   padding: 5px;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
